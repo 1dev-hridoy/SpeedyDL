@@ -1,0 +1,23 @@
+{
+  "name": "my-downloader-package",
+  "version": "1.0.0",
+  "description": "A package to download videos from Facebook, Instagram, TikTok, Twitter, and YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "video",
+    "downloader",
+    "Facebook",
+    "Instagram",
+    "TikTok",
+    "Twitter",
+    "YouTube"
+  ],
+  "author": "hridoy09bg",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
