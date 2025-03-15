@@ -1,6 +1,7 @@
 # SpeedyDL
 
-![SpeedyDL Logo](https://i.ibb.co/hFgQrQWC/speedydl.png)
+![SpeedyDL Logo](https://github.com/user-attachments/assets/c538c8d2-8f5f-48c8-9b2f-84153ea6a2e4)
+
 
 SpeedyDL is a package to download videos from Facebook, Instagram, TikTok, Twitter, and YouTube. This package provides a simple interface to download videos in various qualities.
 
