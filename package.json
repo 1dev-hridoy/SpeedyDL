@@ -1,5 +1,5 @@
 {
-  "name": "my-downloader-package",
+  "name": "speedydl",
   "version": "1.0.0",
   "description": "A package to download videos from Facebook, Instagram, TikTok, Twitter, and YouTube",
   "main": "index.js",
@@ -15,9 +15,10 @@
     "Twitter",
     "YouTube"
   ],
-  "author": "hridoy09bg",
+  "author": "1dev-hridoy",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "speedydl": "^1.0.0"
   }
 }
